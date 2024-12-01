@@ -7,5 +7,5 @@
 - 👔 Professional experience: 2.5 YOE Dev Ops / Help Desk / GIS , 1 YOE Consultant, 1 YOE On Site IT
 
 ### Some insight into what I've worked with (but not limited to):
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMVS-79&theme=transparent&layout=compact&langs_count=20&card_width=1000)
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=MMVS-79&theme=transparent&layout=compact&langs_count=20&card_width=1000)
 
