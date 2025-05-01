@@ -1,4 +1,4 @@
-### はじめまして
+### Hello
 
 ## I am a hobbyist developer
 - 👉🏿 I'm currently working on learning more foundational skills (e.g Data structres and algos)
