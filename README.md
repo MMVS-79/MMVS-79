@@ -1,6 +1,6 @@
 ### Hello
 
-## I am a hobbyist developer
+## Some background
 - 👉🏿 I'm currently working on a M.Eng in Software Engineering
 - 🫦 My interests include: Web Dev, Game Dev and design
 - 🎓 My academic background includes: Geology 🪨 and IT Network Systems 🛜
