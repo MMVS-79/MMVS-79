@@ -4,7 +4,7 @@
 - 👉🏿 I'm currently working on a M.Eng in Software Engineering
 - 🫦 My interests include: Web Dev, Game Dev and design
 - 🎓 My academic background includes: Geology 🪨 and IT Network Systems 🛜
-- 👔 Professional experience: ~3 YOE Dev Ops / Help Desk / GIS , 1 YOE Consultant, 3 YOE On Site IT
+- 👔 Professional experience: ~3 YOE Dev Ops / Help Desk / GIS , 1 YOE Consultant, 6 YOE On Site IT
 
 ### Some insight into what I've worked with (but not limited to):
 #### Lanuages:
@@ -23,3 +23,5 @@
 ![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
