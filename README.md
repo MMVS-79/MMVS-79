@@ -1,9 +1,9 @@
 ### Hello
 
 ## Some background
-- 👉🏿 I'm currently working on a M.Eng in Software Engineering
-- 🫦 My interests include: Web Dev, Game Dev, Machine Learning, TUI apps
-- 🎓 My academic background includes: Geology 🪨 and IT Network Systems 🛜
+- 👉🏿 I'm currently working some personal projects
+- 🫦 My interests include: Web Dev, Game Dev, Machine Learning
+- 🎓 My academic background includes: Software Edngineering 💻, Geology 🪨 and IT Network Systems 🛜
 - 👔 Professional experience: ~3 YOE Dev Ops / Help Desk / GIS , 1 YOE Consultant, 6 YOE On Site IT
 
 ### Some insight into what I've worked with (but not limited to):
