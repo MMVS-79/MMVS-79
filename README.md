@@ -27,9 +27,7 @@
 
   <!-- Tech Stack Dock -->
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,cpp,bash,postgres,gcp,ansible,linux,apple&theme=dark" alt="Tech Stack" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,bash,postgres,gcp,ansible,linux,apple&theme=dark" alt="Tech Stack" />
   </p>
 
   <br/>
