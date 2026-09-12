@@ -5,19 +5,16 @@
 
   <!-- Animated Typing Text -->
   <p align="center">
-    <a href="https://github.com/MMVS-79">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=C7C9FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+System+Design;Exploring+Machine+Learning;DevOps+%26+Cloud+Infrastructure" alt="Typing Animation" />
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=C7C9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;System+Design+%26+Architecture;DevOps+%26+Infrastructure+Automation;Go+%7C+Python+%7C+JavaScript" alt="Typing Animation" />
   </p>
 
-  <!-- Cute & Cozy Bio -->
+  <!-- Clean Bio -->
   <p align="center">
-    Building software at the crossroads of <b>Earth sciences</b> 🪨 and <b>Cloud systems</b> ☁️<br/>
-    DevOps & GIS enthusiast • Tinkering with full-stack apps & ML ✨
+    Full Stack Developer passionate about Linux automation, distributed architectures & clean code ✨
   </p>
 
   <p align="center">
-    <i>🌱 exploring • building • learning 🌱</i>
+    <i>🌱 building • automating • learning 🌱</i>
   </p>
 
   <!-- Divider -->
@@ -25,9 +22,9 @@
 
   <br/><br/>
 
-  <!-- Tech Stack Dock -->
+  <!-- Tech Stack Dock (No Node.js) -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,bash,postgres,gcp,ansible,linux,apple&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=go,py,js,bash,postgres,mysql,ansible,linux,nginx,apple&theme=dark" alt="Tech Stack" />
   </p>
 
   <br/>
