@@ -1,26 +1,53 @@
-### Hello
+<div align="center">
 
-## Some background
-- 👉🏿 I'm currently working on some personal projects
-- 🫦 My interests include: Web Dev, Game Dev, Machine Learning
-- 🎓 My academic background includes: Software Engineering 💻, Geology 🪨 and IT Network Systems 🛜
-- 👔 Professional experience: ~3 YOE Dev Ops / Help Desk / GIS , 1 YOE Consultant, 6 YOE On Site IT
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=180&section=header&text=Hi,%20I'm%20Manuja%20☁️&fontSize=38&fontColor=C7C9FF&animation=fadeIn" width="100%" alt="Header" />
 
-### Some insight into what I've worked with (but not limited to):
-#### Lanuages:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-#### OS:
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-#### Cloud:
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-#### Other tools:
-![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  <!-- Animated Typing Text -->
+  <p align="center">
+    <a href="https://github.com/MMVS-79">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=C7C9FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+System+Design;Exploring+Machine+Learning;DevOps+%26+Cloud+Infrastructure" alt="Typing Animation" />
+    </a>
+  </p>
+
+  <!-- Cute & Cozy Bio -->
+  <p align="center">
+    Building software at the crossroads of <b>Earth sciences</b> 🪨 and <b>Cloud systems</b> ☁️<br/>
+    DevOps & GIS enthusiast • Tinkering with full-stack apps & ML ✨
+  </p>
+
+  <p align="center">
+    <i>🌱 exploring • building • learning 🌱</i>
+  </p>
+
+  <!-- Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=2&width=50%" alt="Separator" />
+
+  <br/><br/>
+
+  <!-- Tech Stack Dock -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,java,cpp,bash,postgres,gcp,ansible,linux,apple&theme=dark" alt="Tech Stack" />
+    </a>
+  </p>
+
+  <br/>
+
+  <!-- Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=2&width=50%" alt="Separator" />
+
+  <br/>
+
+  <!-- Connect & Socials -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <p align="center">
+    <sub>✨ <i>"Stay curious, keep building."</i> ✨</sub>
+  </p>
+
+</div>
