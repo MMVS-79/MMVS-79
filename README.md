@@ -10,7 +10,7 @@
 
   <!-- Clean Bio -->
   <p align="center">
-    Full Stack Developer passionate about Linux automation, distributed architectures & clean code ✨
+    Full Stack Developer passionate about Linux automation, system architectures & clean code ✨
   </p>
 
   <!-- Divider -->
