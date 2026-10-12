@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Text -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=C7C9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;System+Design+%26+Architecture;DevOps+%26+Infrastructure+Automation;Go+%7C+Python+%7C+JavaScript" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=C7C9FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;System+Design+%26+Architecture;DevOps+%26+Infrastructure+Automation" alt="Typing Animation" />
   </p>
 
   <!-- Clean Bio -->
