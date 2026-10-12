@@ -10,7 +10,7 @@
 
   <!-- Clean Bio -->
   <p align="center">
-    Full Stack Developer passionate about Linux automation, system architectures & clean code ✨
+    Full-Stack Developer passionate about infrastructure automation, system architecture, and clean code 
   </p>
 
   <!-- Divider -->
@@ -38,7 +38,7 @@
   </p>
 
   <p align="center">
-    <sub>✨ <i>"Building thoughtful software with curiosity and care."</i> ✨</sub>
+    <sub>✨ <i>"Building thoughtful software with curiosity and care"</i> ✨</sub>
   </p>
 
 </div>
