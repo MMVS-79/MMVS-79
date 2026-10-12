@@ -13,10 +13,6 @@
     Full Stack Developer passionate about Linux automation, distributed architectures & clean code ✨
   </p>
 
-  <p align="center">
-    <i>🌱 building • automating • learning 🌱</i>
-  </p>
-
   <!-- Divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,36&height=2&width=50%" alt="Separator" />
 
