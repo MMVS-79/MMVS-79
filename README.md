@@ -10,7 +10,7 @@
 
   <!-- Clean Bio -->
   <p align="center">
-   ✨ Full-Stack Developer passionate about infrastructure automation, system design, and clean code ✨
+   𓍢 𓏲 Full-Stack Developer passionate about infrastructure automation, system design, and clean code 𓄹 𓏲
   </p>
 
   <!-- Divider -->
