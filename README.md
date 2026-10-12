@@ -42,7 +42,7 @@
   </p>
 
   <p align="center">
-    <sub>✨ <i>"Stay curious, keep building."</i> ✨</sub>
+    <sub>✨ <i>"Building thoughtful software with curiosity and care."</i> ✨</sub>
   </p>
 
 </div>
