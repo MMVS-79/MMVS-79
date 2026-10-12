@@ -24,7 +24,7 @@
 
   <!-- Tech Stack Dock (No Node.js) -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,bash,postgres,mysql,ansible,linux,nginx&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,js,bash,postgres,mysql,ansible,linux&theme=dark" alt="Tech Stack" />
   </p>
 
   <br/>
